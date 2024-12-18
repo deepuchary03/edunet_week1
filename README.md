@@ -10,7 +10,7 @@ cd backend
 npm i
 npm start
 
-cd ..
+now open new terminal in vscode and then
 #start frontend server
 cd frontend
 npm i
