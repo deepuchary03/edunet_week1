@@ -5,13 +5,16 @@ Spotify clone using MERN [internship EY GDS EDUNET AICTE]
 how to run this file:
 
 ```bash
+#start backend server
 cd backend
 npm i
+npm start
 
 cd ..
+#start frontend server
 cd frontend
 npm i
-
-cd..
 npm start
+```
+
 
